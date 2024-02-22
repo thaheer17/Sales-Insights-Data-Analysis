@@ -1,6 +1,6 @@
 # Sales-Insights-Data-Analysis
 
-Title: Sales Insights Data Analysis 
+Title: **Sales Insights Data Analysis **
 
 Created by: Shaik Thaheer
 
@@ -17,4 +17,6 @@ Here are some insights you can draw from the data:
 •	Contributed to the company's success by providing actionable insights that drove Revenue growth and improve Trend efficiency in the Sales Insights dashboard.
 
 
-Click this link to View the Sales Insights Dashboard on Power BI. https://codebasics.io/portfolio/Shaik-Thaheer
+[Click Here](https://codebasics.io/portfolio/Shaik-Thaheer) link to View the Sales Insights Dashboard on Power BI. 
+
+![SI2](https://github.com/thaheer17/Sales-Insights-Data-Analysis/assets/140732104/55454ff0-8b2e-4f7b-8a38-b6ae0151a1c9)
