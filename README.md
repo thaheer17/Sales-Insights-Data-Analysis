@@ -1,6 +1,6 @@
 # Sales-Insights-Data-Analysis
 
-Title: **Sales Insights Data Analysis **
+Title: **Sales Insights Data Analysis**
 
 Created by: Shaik Thaheer
 
